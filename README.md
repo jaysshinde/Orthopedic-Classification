@@ -1,8 +1,9 @@
 # Classification using Biomechanical features of orthopedic patients
 
-Accuracy using KNN 86%
-Accuracy using Decision Tree 77%
+Accuracy using KNN 86% <br>
+Accuracy using Decision Tree 77% <br>
 
 
-![Alt text](Screenshot 2019-03-16 at 5.51.43 PM.png?raw=True)
-![Alt text](Screenshot 2019-03-16 at 5.54.48 PM.png?raw=True)
+![alt text](https://github.com/jaysshinde/Orthopedic-Classification/blob/master/Screenshot%202019-03-16%20at%205.51.43%20PM.png)
+
+![alt text](https://github.com/jaysshinde/Orthopedic-Classification/blob/master/Screenshot%202019-03-16%20at%205.54.48%20PM.png)
